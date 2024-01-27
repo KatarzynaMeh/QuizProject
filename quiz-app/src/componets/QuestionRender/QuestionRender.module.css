@@ -1,0 +1,25 @@
+.containerForm {
+    background-color: bisque;
+}
+
+.questionStyle{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(48, 34, 17);
+    color: rgb(88, 206, 55);
+}
+
+.containerInput{
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+}
+
+.labelStyle:hover{
+    border-radius: 30px;
+    background-color: rgb(175, 251, 152);
+}
+
+.inputStyle[type='radio']{
+    accent-color: rgb(26, 255, 0);
+}
